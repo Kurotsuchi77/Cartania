@@ -1,0 +1,31 @@
+Nom     : Gensui
+Faction : Yazaki
+Type    : Général
+Stats   : 25/2/0/2/11
+Frames  : 4/22
+
+Nom     : Masu
+Faction : Yazaki
+Type    : Unité
+Stats   : 3/3/3/1/7
+Frames  : 4/12
+
+Nom     : Kenshi
+Faction : Yazaki
+Type    : Unité
+Stats   : 4/4/4/1/9
+Frames  : 4/16
+
+Nom     : Kuria
+Faction : Yazaki
+Type    : Magie
+Mana    : 2
+Effet   : Dissiper
+Frames  : 26
+
+Nom     : Monsho
+Faction : Yazaki
+Type    : Magie
+Mana    : 2
+Effet   : BuffAttaque
+Frames  : 9
