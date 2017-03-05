@@ -9,6 +9,7 @@
 #define TRUE    1
 #define FALSE   0
 #define EPSILON 0.000005f
+
 // Types
 
 typedef signed int      s32;
