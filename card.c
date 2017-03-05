@@ -15,6 +15,7 @@ Card* loadCards(s32* nCards)
     s32 n = 0;
     Card *pCards = malloc(sizeof(Card));
 
+    // Read file
     while (!feof(file))
     {
         Card card;
